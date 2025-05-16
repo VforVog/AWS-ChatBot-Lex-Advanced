@@ -11,13 +11,13 @@
 
 - We make IAM role, in order to integate our chatbot to Kommunicate.
 
-- We develop a simple UI Website. We host our    static website "index.html" to S3 Bucket.
+- We develop a simple UI Website. We host our static website "index.html" to S3 Bucket.
 
-- We do configurations on the S3 Bucket for      public access. It generates a URL link.
+- We do configurations on the S3 Bucket for public access. It generates a URL link.
 
-- Kommunicate generates a js script. We        implement it in our html code.
+- Kommunicate generates a js script. We implement it in our html code.
 
-- We now have the URL link. Our Website is       Online. So we connect.
+- We now have the URL link. Our Website is Online. So we connect.
 
 - We now make use of the ChatBot.
 
@@ -40,6 +40,9 @@ Conclusion
 <br><p align="center"><b>Architecture</b></p><br>
 
 ![Image Description](Architecture/Main.jpeg)
+
+<br>
+
 ![Image Description](Architecture/backStage.jpeg)
 
 
