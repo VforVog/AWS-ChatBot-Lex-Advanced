@@ -25,6 +25,7 @@
 
 - Location: Ireland (So Amazon Lex can work)!
 
+<br>
 
 AWS Services Used 🛠
 - Amazon Lex: To build and manage the chatbot and define the conversation flow.
