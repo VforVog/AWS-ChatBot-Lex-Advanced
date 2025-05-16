@@ -25,16 +25,16 @@
 
 - Location: Ireland (So Amazon Lex can work)!
 
-<br>
 
-AWS Services Used 🛠
+<br><p><b><u> AWS Services Used 🛠 </u></b></p><br>
+
 - Amazon Lex: To build and manage the chatbot and define the conversation flow.
 - Amazon Lambda: Customize our answers and Validate the Data in our Slots.
 - Amazon IAM: Set our polices and integrate our ChatBot with Kommunicate
 - Amazon S3 Bucket: Host our Website
 
 
-Conclusion
+<br><p><b><u> Conclusion </u></b></p><br>
 - This chatbot project demonstrates the powerful integration capabilities of Amazon. It’s an exciting way to learn about serverless applications and real time interaction with AWS. Happy building!
 
 
@@ -46,6 +46,6 @@ Conclusion
 
 <br>
 
-![Image Description](Architecture/backStage.jpeg)
+![Image Description](Architecture/BackStage.jpeg)
 
 
