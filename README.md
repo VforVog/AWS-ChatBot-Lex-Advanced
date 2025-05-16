@@ -1,6 +1,8 @@
 <br><p align="center"><b>ChatBot with Amazon Lex 🤖</b></p><br>
 <hr>
 
+<br><b><u>Steps: </u></b><br>
+
 - Access AWS Console. Use of Amazon Lex. Create ChatBot with basic configurations (IAM Roles and Idle session timeout, ..).
 
 - Amazon Lex. Specify Intents and Slots. Define Response from Fulfillments, Closing Responses, etc.
