@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Burger Buddy</title>
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+    <script type="text/javascript">
+        (function(d, m){
+            var kommunicateSettings = 
+                {"appId":"388332ddbc34f68c78f571b4f4ac9d640","popupWidget":true,"automaticChatOpenOnNavigation":true};
+            var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+            s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
+            var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
+            window.kommunicate = m; m._globals = kommunicateSettings;
+        })(document, window.kommunicate || {});
+    /* NOTE : Use web server to view HTML files as real-time update will not work if you directly open the HTML file in the browser. */
+    </script>
+</head>
+
+<body>
+    <h1><img src="img/robot.png" alt="Burger Buddy" />Burger Buddy</h1>
+    <hr />
+
+    <h2>Franchises / Burger Types</h2>
+    <ul>
+        <li>
+            <b>Best Burger</b>
+            <ul>
+                <li>Plain</li>
+                <li>Cheese</li>
+                <li>Pickles</li>
+            </ul>
+        </li>
+        <br />
+        <li>
+            <b>Vog Burger</b>
+            <ul>
+                <li>Bacon</li>
+                <li>Jalapeno</li>
+                <li>Eggs</li>
+            </ul>
+        </li>
+        <br />
+    </ul>
+
+    <h3>Burger Sizes (# patties)</h3>
+    <ul>
+        <li>Single</li>
+        <li>Double</li>
+        <li>Triple</li>
+    </ul>
+
+</body>
+
+</html>
